@@ -15,7 +15,7 @@ export const site: SiteConfig = {
   tagline: "Robot it is future",
   description:
     "Robot can help you, in your routine task, give him a instucrtion and he helps you",
-  accentColor: "contactEmail", // your brand colour as a hex code, e.g. "#2563eb" (blue)
+  accentColor: "#2563eb", // your brand colour as a hex code, e.g. "#2563eb" (blue)
   contactEmail: "hello@plovify.example",
 
   // Building your own startup? Set this to false.
